@@ -13,6 +13,7 @@ target/*
 *.iml
 *.ipr
 *.iws
+*.sh
 .classpath
 .project
 .scala_dependencies
@@ -20,3 +21,4 @@ target/*
 .cache
 logs/*
 .settings/
+notas

@@ -1,6 +1,4 @@
-Chat App
+Example
 
-Author: Mads Hartmann Jensen
-<br>
-Code co-author: David Pollak
+Messsage between Akka Actor and Comet Actor
 

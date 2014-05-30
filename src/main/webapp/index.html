@@ -6,7 +6,20 @@
       <h2>Welcome to your project!</h2>
       <p>
 
+        <form data-lift="form.ajax">
+            <div data-lift="ChatForm">
+                <input type="text" id="msg">
+                <button type="submit">
+                    Send
+                </button>
+            </div>
+        </form>
+
+        <hr>
+
         <lift:comet type="Chat" />
+
+        <hr>
 
       </p>
     </div>
